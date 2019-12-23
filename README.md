@@ -1,4 +1,4 @@
-#Styleblending(Project)
+# Styleblending(Project)
 > 데일리 패션 스타일/정보 공유 사이트
 
 ## Getting Started
