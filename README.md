@@ -25,8 +25,8 @@ Context Root (localhost:XXXX/styleblending)
 
 ### Contributer
 * 이종배 - FreeBoard/fashionBoard - [kokakala]
-* 장예은 - Posting, Login - [multile959]
-* 한정호 - Mypage, search, Alarm/Fan - [humormagnate]
+* 장예은 - Posting, Login - [yeen2]
+* 한정호 - Mypage, search, Alarm/Fan - [hansadong]
 * 김성환 - Main/Filter - [kimsh940607]
 * 정혜은 - Admin - [hye_new]
 
